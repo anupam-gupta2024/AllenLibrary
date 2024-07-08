@@ -1,0 +1,16 @@
+W:\General\AllenLibrary\AllenLibrary\bin\Release\AllenLibrary.dll
+W:\General\AllenLibrary\AllenLibrary\bin\Release\AllenLibrary.pdb
+W:\General\AllenLibrary\AllenLibrary\bin\Release\DocumentFormat.OpenXml.dll
+W:\General\AllenLibrary\AllenLibrary\bin\Release\itextsharp.dll
+W:\General\AllenLibrary\AllenLibrary\bin\Release\Newtonsoft.Json.dll
+W:\General\AllenLibrary\AllenLibrary\bin\Release\Newtonsoft.Json.xml
+W:\General\AllenLibrary\AllenLibrary\obj\Release\AllenLibrary.dll
+W:\General\AllenLibrary\AllenLibrary\obj\Release\AllenLibrary.pdb
+W:\General\AllenLibrary\AllenLibrary\bin\Release\AWSSDK.Core.dll
+W:\General\AllenLibrary\AllenLibrary\bin\Release\AWSSDK.S3.dll
+W:\General\AllenLibrary\AllenLibrary\bin\Release\RestSharp.dll
+W:\General\AllenLibrary\AllenLibrary\bin\Release\AWSSDK.Core.pdb
+W:\General\AllenLibrary\AllenLibrary\bin\Release\AWSSDK.Core.xml
+W:\General\AllenLibrary\AllenLibrary\bin\Release\AWSSDK.S3.pdb
+W:\General\AllenLibrary\AllenLibrary\bin\Release\AWSSDK.S3.xml
+W:\General\AllenLibrary\AllenLibrary\bin\Release\RestSharp.xml
